@@ -1,6 +1,6 @@
 # Expiring Tokens for Django REST framework
 
-A Django based project with token authentication expiration. Inspired by this StackOverflow answer.
+A Django based project with token authentication expiration. Inspired by [this](https://stackoverflow.com/questions/14567586/token-authentication-for-restful-api-should-the-token-be-periodically-changed/15380732#15380732) StackOverflow answer.
 
 ## Usage
 
